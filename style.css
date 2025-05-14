@@ -22,7 +22,6 @@ header {
     gap: 30px;
     justify-content: center;
     padding-top: 30px;
-
 }
 
 
@@ -35,7 +34,7 @@ header {
     background: #e4f4f4;
     border-radius: 10px;
     padding: 15px;
-    width: 400px;
+    width: 350px;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
     transition: transform 0.3s;
     display: flex;
@@ -65,7 +64,7 @@ header {
 
 .receita:hover {
     transform: scale(1.05);
-    /* transform: rotate3d(1, 2.0, 3.0, 10deg) */
+    /* transform: rotate3d(1, 2.0, 3.0, 10deg)  */
 }
 
 footer {
@@ -82,7 +81,7 @@ footer h2,
 footer p {
     font-weight: 100;
     font-size: small;
-   
+
 }
 
 
